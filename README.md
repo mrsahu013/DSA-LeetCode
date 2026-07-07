@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/mrsahu013/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrsahu013/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/mrsahu013/DSA-LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/mrsahu013/DSA-LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mrsahu013/DSA-LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/mrsahu013/DSA-LeetCode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
